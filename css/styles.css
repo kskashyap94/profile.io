@@ -1,5 +1,9 @@
 body {
   background-color: #cbc9d4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .card {
@@ -8,9 +12,6 @@ body {
   margin: auto;
   text-align: center;
   font-family: arial;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .title {
